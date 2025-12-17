@@ -1,0 +1,5 @@
+{
+  "name": "Recipe Reverse Engineer",
+  "description": "An AI-powered culinary tool that analyzes food photos to generate professional recipes, nutritional data, and chef tips.",
+  "requestFramePermissions": []
+}
